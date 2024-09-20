@@ -8,8 +8,9 @@ Con el propósito de optimizar el rendimiento académico, AprendeYa ofrece una e
 
 | **Nombre**             | **Rol**             | **Perfil**                                                 |
 |------------------------|---------------------|------------------------------------------------------------|
-| Emerson Lezama Vera    | Líder del Proyecto  | [LinkedIn]()           |
-| Juan Valeriano Benites | Integrante Proyecto | [LinkedIn]()           |
+| Josue Silva Merino     | Líder del Proyecto  | [LinkedIn]()           |
+| Fernando               |                     | [LinkedIn]()           |
+| David Ñiquén Cáceres   |                     | [LinkedIn]()           |
 
 ### Revisa el Progreso del Proyecto BookHub
 
