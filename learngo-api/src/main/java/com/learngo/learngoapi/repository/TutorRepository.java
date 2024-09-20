@@ -1,5 +1,3 @@
-package com.aprendeya.aprendeyaapi.repository;
-
 import com.aprendeya.aprendeyaapi.model.entity.Tutor;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
@@ -7,7 +5,9 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 
 import java.math.BigDecimal;
+import org.springframework.stereotype.Repository;
 
+@Repository
 public interface TutorRepository extends JpaRepository<Tutor, Integer> {
 
     @Query("SELECT t FROM Tutor t JOIN FETCH t.usuario WHERE t.idTutor=:idTutor")
