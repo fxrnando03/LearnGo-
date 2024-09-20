@@ -6,11 +6,11 @@ Con el propósito de optimizar el rendimiento académico, AprendeYa ofrece una e
 
 ### Colaboradores del Proyecto
 
-| **Nombre**             | **Rol**             | **Perfil**                                                 |
-|------------------------|---------------------|------------------------------------------------------------|
-| Josue Silva Merino     | Líder del Proyecto  | [LinkedIn]()           |
-| Fernando               |                     | [LinkedIn]()           |
-| David Ñiquén Cáceres   |                     | [LinkedIn]()           |
+| **Nombre**           | **Rol**             | **Perfil**                                                 |
+|----------------------|---------------------|------------------------------------------------------------|
+| Josue Silva Merino   | Líder del Proyecto  | [LinkedIn]()           |
+| Culo                 |                     | [LinkedIn]()           |
+| David Ñiquén Cáceres |                     | [LinkedIn]()           |
 
 ### Revisa el Progreso del Proyecto BookHub
 
